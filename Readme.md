@@ -7,7 +7,7 @@
 ### Steps to run visitCounter Project
 * Download the source code and import in intellijIDEA.
 * Go to localhost:8080/
-* Type endpoints in url
+* End point api/v1/visitor-count-app/username/{username}/count
 
 ### In this counter feature there is -
 * count, variable to count url hits
